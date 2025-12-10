@@ -60,15 +60,15 @@ I am a **3rd Year AIML Student** focused on the reliability and application of L
 
 ---
 
+### 📊 GitHub Stats
 
-
-
-### ⚡ GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minitttt&show_icons=true&theme=graywhite&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=a6accd&icon_color=ffffff" alt="minitttt's Stats" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minitttt&theme=dark" height="200" width="1000"/>
+  <img src="https://streak-stats.vercel.app/?user=minitttt&theme=dark&hide_border=true" height="250" width="1000" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Manan0p&show_icons=true&theme=dark&hide_border=true" height="165"/> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manan0p&layout=compact&theme=dark&hide_border=true" height="165"/> -->
   
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minitttt&layout=compact&theme=graywhite&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=a6accd" alt="Top Langs" />
-</div>
+</p>
+
+
+
